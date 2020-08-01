@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/yenming/notary#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "forever": "^3.0.0"
   }
 }
